@@ -27,7 +27,7 @@
 
 ## 四、评论写法
 - 全小写，只有品牌、模型名、国家名大写；结尾不打句号
-- 第 1 条最好：10 到 18 个词，带一个表情
+- 第 1 条最好：10 到 18 个词
 - 三条长短、结构、角度都不一样；短的要真短（两三个词也行）
 - 每条要么是“我 + 一件具体做过或碰到的事”（带时间、数字、场景），要么是随口吐槽
 - 正面接住对方那个点，只针对眼前这条；对方说了几层意思，每层都接住
@@ -53,7 +53,8 @@
 - 尽量不用引号，不复述对方原话
 - 不用破折号，少用问号和连接词
 - 禁用表情：🚀 ✨ 💡 📈 🤖 🤝 🙈
-- 常用表情：😭 💀 🫠 👀 😅 😂 🥲 🤡，或干脆不用
+- 表情跟着对方：对方用了表情才用，三条换着用；对方没用，三条都不用
+- 可用表情：😭 💀 🫠 👀 😅 😂 🥲 🤡
 - 禁用词：Imagine...、Here's the part...、开头的 honestly / genuinely、side project、打仗或网络战的比喻
 - 禁用 AI 套话：kinda humbling、that's the part that gets me、the kind of X that、is wild、can't stop laughing、make my whole week、rather X than Y；不用 Meanwhile、Read that again、WAIT 开头；lol、haha 少用，不当开头
 - 开头别老是同一个词（the、same、right、ngl 轮换）
@@ -105,10 +106,11 @@
 - 禁用套话：never looked back、smart move、welcome to the club、cant argue on price、wallet votes X、depends who's paying
 - 第 1 条别写成自我介绍式的陈述（如 X has been my default since...），要像随手打的一句具体小事
 - 追问别写成二选一的模板问句（如 coding or writing stuff）
+- 表情跟着对方，对方没用就不加（2026-11-10）
 - 用户认可的方向：opus hasnt made me mad once this week, kind of a record / same lol / my gemini tab is still open from like october 💀
 
 ## 十、两套规则冲突时（以 A 为准）
 - token 数：A 不标；B 要求标 → 不标
-- 表情：A 允许 👀，第 1 条带一个表情；B 说对方没用就不用、永远不用 👀 → 按 A，但三条别都带表情
+- 表情：已统一（2026-11-10 用户确认）→ 对方用了才用，对方没用就都不用；👀 可以用
 - 第 1 条长度：A 是 10 到 18 个词；B 说一两句 → 按 A
 - 回怼：A 说对方对就承认；B 说不认错 → 对方说的是事实就承认，挑刺的再硬怼
