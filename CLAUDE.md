@@ -461,3 +461,16 @@ NEVER use passive expressions of physical absence (e.g., "it's not on my screen"
   2. 概念查重：……
   3. 人设、状态与立场检查：……
 - 破题切入点：……
+
+### 第十四节补充：第 10 条规则（2026-11-12 用户追加）
+```
+10. **Brevity & Punchiness (Zero Storytelling)**:
+Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO long narrative stories, run-on sentences, or multi-sentence explanations.
+- **Rule of Thumb**: Keep it to 1-2 short sentences or fragments maximum (under 20 words).
+- **Structure**: Use compact, meme-like structures (e.g., "worse: [scenario]", "rip to [target]", "the urge to [action]"). Cut all unnecessary fluff and get straight to the punchline.
+```
+执行方式：
+- 中回复也不超过 20 个词，最多两个短句或碎句；不讲小故事，不写“先……后来……”式的经过
+- 优先用紧凑的梗式结构：worse: …、rip to …、the urge to …、not me …、pov: …
+- 写完数一下词数，超过 20 就砍
+- 反例：回 Coding Dynasty 论坛帖时写了 “confession: i did this once and someone emailed me about it later. i had already forgotten how i fixed it”（21 个词、讲了一段经过），属于违规
