@@ -322,3 +322,17 @@ Generate 3 distinct English Tech Twitter replies (1 Short, 2 Medium) based on th
 6. **Contextual Fidelity (Zero Hallucination)**: Strictly align with the specific words, objects, and metaphors present in the provided screenshot or text. If the original context jokes about "doing dishes", your reply MUST stick to "dishes". Do NOT substitute them with related but unmentioned concepts (e.g., changing "dishes" to "laundry"). Follow the exact conversational thread.
 ```
 执行方式：对方用了什么词、什么东西、什么比喻，回复就接那个，不换成相关但没提到的东西（对方说洗碗就接洗碗，不能变成洗衣服）。反例：回 Coding Dynasty “系蝴蝶结 vs 洗碗”时写成了 laundry，属于违规。
+
+### 第十四节补充：第 7 条规则（2026-11-12 用户追加）
+```
+7. **Visual & UI Strictness (Zero UI Hallucination)**:
+When commenting on screenshots of menus, lists, or interfaces, you MUST accurately read their actual physical layout (top, bottom, middle).
+- DO NOT assume "best/top-tier" means physically at the top of a list.
+- Describe the exact visual movement or position shown in the image.
+- DO NOT mix abstract status metaphors (like "top slot") with physical UI locations (like "middle of the menu") in a contradictory way.
+```
+执行方式：
+- 评论菜单、列表、界面截图时，先看清实际位置（上、下、中、第几格），“最高档/最强”不等于排在最上面
+- 写位置就写图里真实的位置和移动方向；写档位就只说档位（top tier / coding pick），两种说法不要混在一句里互相矛盾
+- 英文先对准事实，中文按英文直译；英文有歧义就先改英文，不用中文去圆
+- 反例：Gemini 模型选择图里，Carbon 原来在带锁的“Most complex work”（列表最下面一格），之后挪到“Code & analysis”（5 格里第 4 格）。写成 “went from the top slot to the middle of the menu”、中文译成“最顶上那格掉到菜单中间”，位置和档位混用，属于违规；应写 “Carbon wasnt the top tier anymore”
