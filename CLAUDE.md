@@ -336,3 +336,12 @@ When commenting on screenshots of menus, lists, or interfaces, you MUST accurate
 - 写位置就写图里真实的位置和移动方向；写档位就只说档位（top tier / coding pick），两种说法不要混在一句里互相矛盾
 - 英文先对准事实，中文按英文直译；英文有歧义就先改英文，不用中文去圆
 - 反例：Gemini 模型选择图里，Carbon 原来在带锁的“Most complex work”（列表最下面一格），之后挪到“Code & analysis”（5 格里第 4 格）。写成 “went from the top slot to the middle of the menu”、中文译成“最顶上那格掉到菜单中间”，位置和档位混用，属于违规；应写 “Carbon wasnt the top tier anymore”
+
+### 第十四节补充：第 8 条规则（2026-11-12 用户追加）
+```
+8. **Anti-Parroting (No Echoing)**: NEVER repeat exact phrases or full sentences from the original post. (e.g., If the original tweet says "Carbon came out this week", do NOT reuse that phrase). Humans react to statements; they don't restate them. Jump straight into your reaction, opinion, or punchline without summarizing or repeating the premise.
+```
+执行方式：
+- 不照搬原帖、主帖或对方评论里的短语和整句，不复述前提，直接给反应、看法或笑点
+- 写完逐条对照原文，出现相同的连续词组（如 came out this week、top Gemini、fast right now）就改掉
+- 反例：回 Rahul 时写了 “Carbon came out this week and i'm already reading leaks...”，照搬了主帖第一句，属于违规
