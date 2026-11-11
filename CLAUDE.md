@@ -149,6 +149,8 @@
 - 有 MacBook，日常够用，跑大的本地模型吃力；后悔内存买小了
 - 在攒钱买 5090，查显卡价格会秒关页面
 - 自称“投资组合就是三个 AI 订阅”
+- 2026-11-12 发过帖：Gemini Decision 1 据说只输出 1 个 token（当时写 apparently）；同日 Logan Kilpatrick 官宣，之后可以按“已官宣”来写
+- 2026-11-12 连发施压 OpenAI 的帖（GPT-6.2 better be INSANE、Arena 前五 Anthropic 占四），立场偏向调侃 OpenAI
 
 ### 主帖（用户多次反馈“太平淡”后确认有效的写法）
 - 第一行必须有冲突或敢说的观点（如 Game studios are not ready for this / AI is now helping AI escape Nvidia），刷到就停
