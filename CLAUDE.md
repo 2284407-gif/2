@@ -501,3 +501,4 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
   （英文代码框）
   中文意思
   ……
+- 补充（2026-11-12 用户要求）：最上面那行只写对方原文的中文意思，不加括号说明（不写“他在接……”“意思是……”之类的补充）
