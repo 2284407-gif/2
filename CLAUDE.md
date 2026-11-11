@@ -222,7 +222,8 @@ Analyze the context of the original draft.
 - DO NOT overdo the "shitposting" or sarcasm unless the original text explicitly asks for it. Keep it natural and restrained.
 ```
 执行方式：
-- 只给 1 条（评论、主帖、改写都一样），不再给三个版本；英文放一个代码框，下面一行中文意思，必要时再补提醒
+- 评论（回复别人）仍然给 3 条，第 1 条标（推荐）（2026-11-12 用户纠正：“还是 3 条”）；“只给 1 条”只用于用户拿自己的草稿让我改写的时候
+- 每条英文一个代码框，下面一行中文意思，必要时再补提醒
 - 先判断原文/对方在说什么：
   - 严肃的技术观察 → 干、偏分析，像一个累了的程序员在陈述
   - 抱怨或对比 → 可以带一点讽刺或一个不明显的小笑点
