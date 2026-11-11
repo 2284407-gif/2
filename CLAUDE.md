@@ -112,6 +112,7 @@
 - 表情跟着对方，对方没用就不加（2026-11-10）
 - 主帖被说“太平淡”多次：见第十一节主帖写法
 - 禁用：benchmark wars 这类战斗比喻也算
+- 评论不要描述画面细节（2026-11-11）：别写“树干笔触”“小帽子”“暖台灯”“船尾窗户”这类看图说话，太像机器人；改写成“我 + 自己的具体小事/反应”或随口吐槽
 - 用户认可的方向：opus hasnt made me mad once this week, kind of a record / same lol / my gemini tab is still open from like october 💀
 
 ## 十、两套规则冲突时（以 A 为准）
