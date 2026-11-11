@@ -316,3 +316,9 @@ Generate 3 distinct English Tech Twitter replies (1 Short, 2 Medium) based on th
 - 禁用没根据的绝对化说法：half、always、all、never、every、mainly because 等，除非是事实；玩笑要一看就是玩笑，不能像在陈述事实
 - 表情约一半的回复带，只放句尾，从 😭 💀 👀 🫠 等里选
 - 第十三节其余保留项（人设、事实核对、同帖不重复、必要时一行中文提醒）继续有效
+
+### 第十四节补充：第 6 条规则（2026-11-12 用户追加）
+```
+6. **Contextual Fidelity (Zero Hallucination)**: Strictly align with the specific words, objects, and metaphors present in the provided screenshot or text. If the original context jokes about "doing dishes", your reply MUST stick to "dishes". Do NOT substitute them with related but unmentioned concepts (e.g., changing "dishes" to "laundry"). Follow the exact conversational thread.
+```
+执行方式：对方用了什么词、什么东西、什么比喻，回复就接那个，不换成相关但没提到的东西（对方说洗碗就接洗碗，不能变成洗衣服）。反例：回 Coding Dynasty “系蝴蝶结 vs 洗碗”时写成了 laundry，属于违规。
