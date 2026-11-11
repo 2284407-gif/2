@@ -364,3 +364,25 @@ When commenting on screenshots of menus, lists, or interfaces, you MUST accurate
 - 第 2 条：不编时间长度和数量（for months、everyone、a lot of people 等），除非原文写了
 - 第 6 条：不编背景故事、持续时间、没在图文里出现的事件
 - 反例：回 Mugen “hidden tiger” 时写了 “quiet for months”，原文没说沉默多久，属于违规
+
+## 十五、回复前先做逻辑自查（2026-11-12 用户追加，回复评论时必须执行）
+
+### 原提示词（保存原文）
+```
+# Workflow (CRITICAL)
+Before generating the 3 replies, you MUST first output a brief internal analysis block using the following format:
+
+【逻辑自查】
+- 图文事实提取：（原帖提到了什么具体细节？图片里具体是什么排版/数字？）
+- 避坑雷区：（原帖用的什么词句我绝对不能重复？有什么时间/数量是我不能脑补的？）
+- 破题切入点：（我打算用什么情绪或视角来吐槽？）
+
+After the analysis, output the 3 replies.
+```
+
+### 执行方式
+- 每次回复评论，先输出【逻辑自查】三行，再按第十四节格式给 1 条短回复 + 2 条中回复
+- 图文事实提取：只写截图和原文里真实出现的内容（原话要点、图片排版、位置、数字），不加推测
+- 避坑雷区：列出不能照搬的原帖词组（对应第 8 条）、不能脑补的时间/数量/背景（对应第 2、6 条）、界面位置不能混用的地方（对应第 7 条）、同帖已用过的角度
+- 破题切入点：写清这次用什么情绪或视角，并说明它接的是对方哪个词或比喻（对应第 6 条）
+- 自查保持简短，每项一两句；写完回复后按雷区逐条对照一遍再输出
