@@ -777,3 +777,14 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 不用 grabbed the popcorn、popcorn time、grab your popcorn 这类用烂的吃瓜套话；换成当下 X 上随口的说法，如 completely changed the plot、turned into a movie
 - 不用 “A is when I did B” 这种解释性句式；改成顺口的时间、因果短句（The second X happened, ...），或省略主语的口语短句（Can't imagine...）
 - 反例：回 Mariko 时写了 “Elon popping into the thread is when I grabbed the popcorn”，既是陈旧套话，又是 A is when I did B 的拗口句式
+
+### 第十九节补充：封杀拟人化比喻金句（2026-11-12 用户追加）
+```
+1. 严禁使用“拟人化比喻金句模板”：
+   - 在【轻松调侃】中，禁止写 "X is the friend you only..."（X 就像是那种……的朋友）或 "X is like that one coworker who..." 这类刻意把模型比喻成人的抖机灵句式。这是大模型写社交文案最典型的“拟人修辞指纹”。
+   - 调侃要回到真实的使用场景和动作上，用大白话讲出反差感（例如："I only switch to Fable when Opus actually gets stuck"），不要写小作文式的比喻。
+```
+执行方式：
+- 不把模型、产品、公司比喻成人：X is the friend you only...、X is like that one coworker who...、X is the coworker / roommate / ex who... 这类句式一律不用
+- 调侃落在真实的使用场景和动作上，用大白话讲出反差（什么时候切换、点了什么、额度怎么掉的）
+- 反例：回 Arun 时写了 “Fable is the friend you only call in an emergency”，属于拟人化比喻金句，违规
