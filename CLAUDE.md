@@ -1454,3 +1454,15 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 回复评论时，三条回复下面加一行，用一句中文总结对方这条评论的大概意思（取代“不再输出对方原文的中文意思”那条）
 - 只写一句大意，不逐字翻译，不加分析；格式如：Jacob：担心上市后用量额度会收紧
 - 现在的完整输出：【短回复】【中回复】（推荐）【轻松调侃】三段（英文代码框 + 中文意思），最下面一行对方意思的一句话总结
+
+### 第二十八节补充：长念头用逗号断开 + 财报帖抓技术、算力数字（2026-11-12 用户追加）
+```
+1. 避免把一长串完整分句硬塞成主语（例如 `revenue up about 13x while the operating loss shrank is the part i'd stare at` 读起来太绕）：长念头直接用逗号断开，说人话（例如 `revenue 13x'd while operating loss shrank, that's the wild part`）。
+2. 优先锚定“AI 极客/开发者视角”而不是“会计师视角”：遇到财报或 IPO 帖子时，少掉书袋聊可转债会计科目（`fair value line on convertibles`），优先抓跟技术/算力相关的惊人数字（例如 9000 亿算力承诺、基础设施烧钱速度）来吐槽，更贴合我的 AI 科技账号主线。
+```
+执行方式：
+- 不把一整句话（带 while、because 的完整分句）塞进主语位置再接 is the part...；长念头用逗号断成两截口语（这一条放宽“禁逗号拼两个完整短句”：只要是口语断句、不是左右对称的说教句，就可以用逗号断开）
+- 财报、IPO 帖子：优先抓算力承诺、基础设施开支、算力成本这类和 AI 技术相关的数字来聊；少聊会计科目（可转债公允价值、递延项等）
+- 涉及股票、IPO 时照旧不给投资建议、不判断估值高低和涨跌
+- 例句照旧只当思路，不照搬
+- 反例：回 Sahil 的 Anthropic IPO 帖时写了 “most of that net loss is the fair value line on the convertibles”（会计师视角）和 “revenue up about 13x while the operating loss shrank is the part i'd stare at”（整句塞进主语，绕）
