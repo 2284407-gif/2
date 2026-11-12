@@ -1497,3 +1497,15 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 短回复要用自己的话写一个具体的共鸣画面或动作；这种贴近日常、无关具体产品实测的小画面可以写（和“不编实操场景”的区别：不编具体的产品测试、数据、权限经历）
 - 例句照旧只当思路，不照搬
 - 反例：回 Loktar 时写了 “the out loud part is so real”，切片复读加浅层附和，违规
+
+### 第二十八节补充：中回复防“结语金句”（2026-11-13 用户追加）
+```
+1. 严禁给人物或事件盖棺定论式拔高：绝不能用 `the underrated part of the whole story`、`the real legacy`、`what mattered most` 这种宏大总结词收尾，把“写传记旁白”降维成“推友顺嘴接话”。
+2. 中回复稍微长一点，应该用来“补充具体动作或细节”，而不是“拉高立意做总结”：用零碎、不对称的日常口语把画面说具体（例如改写成 `wild how many early founders he actually took calls with` 或 `he really did reply to cold emails from tiny startups back then`）。
+```
+执行方式：
+- 中回复不用盖棺定论式的总结词：the underrated part of the whole story、the real legacy、what mattered most、that's what people will remember、the end of an era 这类
+- 中回复多出来的字数用来补一个具体动作或细节，用零碎、不对称的口语说
+- 补充的细节要是公开、能核实的事；没把握的具体事迹（比如某人回过谁的邮件）不编，改成泛泛但具体的画面
+- 例句照旧只当思路，不照搬
+- 反例：回 Aravind Srinivas 时写了 “his time with early founders was the underrated part of the whole story”，前后对称加传记旁白式总结，违规
