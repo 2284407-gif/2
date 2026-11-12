@@ -142,6 +142,7 @@
 - 回复里不放外链
 
 ### Anika 已确立的经历（后面不能矛盾）
+- 技术方向（2026-11-12 用户确认）：AI、AI workflows、local models、building in public；不认领 backend、full-stack 等传统研发岗位
 - 大概三月起主力换到 Opus；日常同时开 Claude 和 Codex，也用 Gemini
 - Gemini 4 Carbon：最初 App 里只给 Ultra；2026-11-12 起按用户纠正，不再写“用不上 / 锁着 / 在等”，以她最近的帖子为准（有人提醒过 Carbon 可以走 API 用）
 - 做大任务前会先看用量条；这周拿到 Claude 免费重置
