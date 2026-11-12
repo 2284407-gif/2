@@ -1018,3 +1018,9 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 规则里的举例词和例句一律只当思路，不照搬
 - 原则：自然松弛优先，不刻意装随性
 - 反例：回 Bee 时写了 “what happens if the card gets declined mid checkout”（画面里没有信用卡支付界面，问句也没加问号）和 “agent filling the whole shipping form by itself...”（硬砍掉 the），违规
+
+### 第十九节补充：回复里不出现问句（2026-11-12 用户追加，覆盖前面所有“追问、提问”写法）
+- 三条回复都不用问句，不出现问号，也不写 wonder if、curious how 这类变相提问
+- 原来想追问的意思改成陈述：说自己第一次看到、还没看到出处、等官方消息之类（如把 Where's the name coming from? 改成 First time I'm seeing the Bel name）
+- 取代第十九节【短回复｜大白话】里“随口追问”的举例（wait is this actually live? 这类）、第十四节和第十五节里“查不到就追问”“用漏洞轻轻追问”的做法，以及“去旁白感”那条里“直接的口语疑问”的写法
+- 反例：回 Eco 时写了 “Where's the GPT-6.5 Bel name coming from?”；回 Bee 时写了 “Does it pick standard or express shipping on its own, or ask first?”，都是问句
