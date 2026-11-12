@@ -1236,3 +1236,14 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 句首冗余的 the 可以省（取代第十九节纠偏里“冠词该有就有”对句首 the 的要求；句中冠词照常）
 - 例句照旧不照搬
 - 反例：回 Mikhail Parakhin 时写了 “High is what most people actually run day to day, max is too slow for that”（下定义加科普纠正）和 “max effort mostly exists for benchmark screenshots”（下定义），违规
+
+### 第二十四节补充：冷知识优先于谐音双关 + 省主语不砍半截（2026-11-12 用户追加）
+```
+1. 多用圈内代号/命名规律等真冷知识，少玩流行文化谐音双关：像 `argon to krypton would at least keep the noble gas streak` 这种基于 Google 历史代号规律的观察极其地道，优先保持这种风格；少用 `Krypton -> Superman` 这类偏大众谐音梗的机灵句。
+2. 省略主语时不要把动词短语砍成半截残句：口语动词要完整（例如说 `whole timeline starts spiraling`，不要写 `whole timeline starts` 这种没说完的半截话）。
+```
+执行方式：
+- 优先用圈内冷知识做切入：代号命名规律、版本节奏、发布习惯；少用流行文化谐音梗（如 Krypton 联想到超人）
+- 冷知识必须先核对对得上：例如目前已知的 Gemini 4 代号有 Argon、Carbon、Flash，Carbon 不是稀有气体，所以“稀有气体连号”这种说法不成立，要改成只说 Argon 和 Krypton 都是稀有气体
+- 省略主语时，动词短语要说完整，不留半截
+- 反例：回 Itsvishal 时写了 “krypton would be a superman tier name”（大众谐音梗）；“argon to krypton would at least keep the noble gas streak” 风格对，但 Carbon 已经打断了稀有气体命名，streak 这个说法和事实不符
