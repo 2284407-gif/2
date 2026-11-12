@@ -555,3 +555,14 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - and 用 + 或 / 代替；长句用句号劈成两段，不用逗号串成一长串
 - 全小写，结尾不加句号，不用 ... 和 —
 - 反例：“nobody on my team touches that file anyway, it gets the flagship and a wide berth”（16 个词、逗号串句、有冠词和系动词）；应改成 “nobody on my team touches it. flagship + wide berth”
+
+### 第十六节更新：黑话要准 + 前提不能编（2026-11-12 用户追加）
+```
+5. **行业黑话与公司文化精准**：涉及具体科技公司、代码架构或 AI 圈梗时，必须符合真实公司文化与开发者黑话（如用 lore, moat, org chart, legacy code），禁止生造中式直译词（例如不要用 politics 形容扁平化技术公司）。
+6. **事实严丝合缝（防瞎编）**：生成前先核对原帖正文与配图里的每一个细节，回复里的前提假设必须 100% 贴合原帖事实，绝不为了玩梗而编造和原帖矛盾的前提。
+```
+执行方式：
+- 黑话用圈内真实说法：lore、moat、org chart、legacy code、tribal knowledge 等；不用中式直译（如 cuda politics、company politics 形容技术公司）
+- 写之前把原帖和配图细节过一遍，回复里的前提必须和原帖一致，不为玩梗编造矛盾前提
+- 口语词可用 tbh、lol、same、tho
+- 反例：回 smlay “Likely someone with NVIDIA background” 时写了 “outsider would need a year just to learn the cuda politics lol”，politics 是中式直译、不符合圈内说法；应改成 “outsider = year one just learning cuda lore lol”
