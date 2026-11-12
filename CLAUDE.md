@@ -965,3 +965,16 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 少用“名词主语 + is/are + 形容词短语”的标准主系表；多用动名词、动词起手或碎句
 - actually、though（放句尾）、for once 这类口语副词可以自然嵌进句中或句尾；一组 3 条里一两处就够，不每条都塞（第十六节“句尾默认干净”针对 lol、tbh、表情这类尾缀，不限制这几个连接副词）
 - 反例：回 Bee 时写了 “okay parallel browser tasks are a nice upgrade”，照搬举例词 okay 当帽子，后半句又是标准主系表，违规
+
+### 第十九节补充：碎句不加修辞逗号 + 少用产品说明书词汇（2026-11-12 用户追加，并入第二十一节自检第 8 条）
+```
+1. 碎句严禁加“修辞逗号”：
+   - 写推特碎句时，不要为了制造语气停顿而刻意加逗号（例如把 `multiple browser agents running side by side, finally` 改成不加逗号的 `multiple browser agents running side by side finally` 或 `finally parallel browser tasks`）。
+2. 用推友口语大白话替换“产品说明书词汇”：
+   - 少用 `multiple browser agents`、`functional layers` 这类书面技术词，优先换成推特真实用户顺嘴说的词（如 `tabs`、`flows`、`carts`、`clean`、`solid`），让句子听起来像刚看完视频随手发的一条弹幕，而不是产品评测摘要。
+```
+执行方式：
+- 碎句里不为了制造停顿加逗号（如 ..., finally、..., for once 前面的逗号），直接连着写或把词挪到句首
+- 少用产品文档、评测摘要里的书面词（multiple browser agents、functional layers、parallel execution、workflow orchestration 等），换成用户顺嘴说的词：tabs、flows、carts、clean、solid 之类
+- 写完读一遍：像不像刚看完视频随手发的弹幕？像评测摘要就改
+- 反例：回 Bee 时写了 “multiple browser agents running side by side, finally”，既有修辞逗号，又用了 multiple browser agents 这种说明书词汇，违规
