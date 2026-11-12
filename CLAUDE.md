@@ -878,3 +878,7 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 轻松调侃可以直接引用段子里最好笑的那句神结尾或细节顺着吐槽（这种情况不受“不复述原帖”限制，只限引用一句笑点）
 - 和“AI 伪造聊天截图”那条的区别：那条针对把编出来的话安到某个模型头上、拿来当真事传的截图，要点破；这条针对大家都知道是段子的搞笑图，要入戏
 - 反例：回 Shannu 的搞笑拒信时写了 “No real hiring team writes a rejection this dramatic”，拆台扫兴，违规
+
+## 二十、规则自动同步（2026-11-12 用户要求）
+- 用户教完新规则，不用等用户说“同步”：立刻把原文、执行方式、反例追加到本文件，提交并推送到仓库，然后从远端核对一遍，再回复确认
+- 推送前先 git pull；本机没配 git 身份，提交时用 `-c user.name="2284407-gif" -c user.email="2284407-gif@users.noreply.github.com"`，不要用用户的真实邮箱
