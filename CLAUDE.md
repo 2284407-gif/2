@@ -1262,3 +1262,8 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 三条开头不能撞同一个词（包括同一个产品名），开头和句式都要换
 - 例句照旧不照搬
 - 反例：回 Aurora 的中文帖时用了英文回复；写了 “a new Flash would be my daily pick over another big model”（测评腔）；三条里两条都以 flash 开头
+
+### 撤回：回复一律用英文（2026-11-12 用户纠正，撤回上一条“按原推语言回复”的第 1 点）
+- 用户原话：我要英文的，我一直都是英文的，不要给我写中文
+- 不管原推是中文、英文还是其他语言，回复一律写英文；格式照旧：英文代码框 + 下面一行中文意思 + 最下面一行对方原文的中文意思
+- 上一条的第 2 点（戒测评编辑腔）和第 3 点（三条开头不撞词）继续有效
