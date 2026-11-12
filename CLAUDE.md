@@ -1390,3 +1390,7 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 用户原话：以后发完英文下面都给我带上中文
 - 不管是评论回复、主帖、引用转发、改写，还是用户发来自己的英文版本让我检查、确认，只要输出了英文，下面都紧跟完整的中文意思
 - 主帖、长帖的中文按段落对应翻译，不只给一句大意；中文严格照英文原意，不加戏（第二十一节第 7 条）
+
+### 反例补记：又复述了原推（2026-11-12 用户指出）
+- 回 smlay 的 Hydrogen 鹈鹕帖时写了 “2:44 for the whole three.js scene on high isn't bad”（把原推的时间、Three.js、HIGH 档又报了一遍）和 “zooming in on pelican feet is peak 2026 benchmarking”（原推已经说了可以放大看鹈鹕的脚，换个说法重讲），属于复述原推
+- 自检时逐条对照原推：原推里已有的数字、细节、动作，回复只能拿来给出新反应，不能当成回复的主体再讲一遍
