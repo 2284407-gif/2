@@ -836,3 +836,8 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 交友贴、点名贴里只认领上面这几个方向
 - 截图顶部有“互关”且有互动记录（“我 X · 他 Y”）时，对方发 Let's connect 之类的广撒网帖，不回 happy to connect、let's connect、would love to connect；用熟人顺手暖场或自嘲的口吻接
 - 反例：回 Aksh 的交友贴时写了 “AI and backend over here, happy to connect”“Mostly backend these days...”，替 Anika 认领了后端，还对互关的熟人说 happy to connect，都违规
+
+### 第十九节补充：别写违背大模型常识的句子（2026-11-12 用户追加）
+- 不写“直接问模型自己是什么版本就能搞清楚”这类话：模型对自己的版本号经常答错或乱编，真用户都知道
+- 调侃“问模型是哪个版本”时，只能拿它会胡编来开玩笑，不能把它当成靠谱的查证办法
+- 反例：回 zcw 时写了 “Asking Grok which version it is might be the fastest way to find out”，违背常识
