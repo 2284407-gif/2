@@ -1394,3 +1394,16 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 ### 反例补记：又复述了原推（2026-11-12 用户指出）
 - 回 smlay 的 Hydrogen 鹈鹕帖时写了 “2:44 for the whole three.js scene on high isn't bad”（把原推的时间、Three.js、HIGH 档又报了一遍）和 “zooming in on pelican feet is peak 2026 benchmarking”（原推已经说了可以放大看鹈鹕的脚，换个说法重讲），属于复述原推
 - 自检时逐条对照原推：原推里已有的数字、细节、动作，回复只能拿来给出新反应，不能当成回复的主体再讲一遍
+
+### 第二十六节补充：长推文 / 技术爆料帖防复述铁律（2026-11-12 用户追加）
+```
+1. 严禁直接复读原推里的具体数字和细节词组（例如原文写了 `2 minutes 44 seconds`、`zoom in on pelican feet`，回复里绝不能出现 `2:44` 或 `zooming in on pelican feet`）：不要当原推的“阅读理解总结员”。
+2. 往原推文字之外延伸半步（聊调用体验、实际效果、或圈内对比）：面对长篇技术爆料，真推友只会顺着聊原推没写出来的东西——例如调侃 Vertex AI 每次都是最先偷跑的渠道、好奇实际跑出来的 3D 物理穿模严不严重、或者吐槽这波偷跑比官方预热还直接。
+3. 重申严禁使用 `... is peak 2026 ...` 这类烂大街网红文案模板。
+```
+执行方式：
+- 长推文、技术爆料帖：原推里的具体数字（时间、价格、分数、数量）和细节词组，回复里一律不出现，换格式写也不行（如 2 minutes 44 seconds 写成 2:44）
+- 往原推没写的地方延伸半步：调用成本、实际效果、发布渠道和节奏、圈内对比
+- 不用 is peak 2026、peak X、X is a vibe、main character energy 这类网红文案模板
+- 和“倍数对比可引用图表数字”的关系：只有在做数字对比、算差距时才引用图表数字；其余情况不复读原推数字
+- 例句照旧只当思路，不照搬
