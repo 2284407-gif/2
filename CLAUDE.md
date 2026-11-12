@@ -1004,3 +1004,17 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 中回复少用 Curious how 这种调研式温和起手；改成直接的口语疑问（what happens if...、wonder if...）或预判（bet it...、would love to see...）
 - 例子里的整句不照搬，按当前帖子自己写
 - 反例：回 Bee 时写了 “watching it fill out the whole shipping form on its own”（只有画面描述，没有反应）和 “Curious how it handles a checkout failing halfway”（调研式温和起手），违规
+
+### 第十九节纠偏：不脱离画面加戏，恢复自然大小写和标点（2026-11-12 用户追加，覆盖前面冲突的“碎句、全小写”要求）
+```
+1. 严禁脱离原图画面强行加戏：提问或调侃只能基于图/视频里实际出现的元素，图里没有出现信用卡支付界面就不要编造 `card declined` 这类不存在的场景。
+2. 自然使用大小写和基础标点（不要为了装随性而强行全小写）：正常的问句该加问号 `?` 就加问号，正常的句首字母该大写就大写。真人随手打字是“自然松弛”，不是“刻意删除所有标点和大小写”。
+3. 停止硬抄提示词里的举例词和句式：不要为了凑“碎句感”而把正常的 `the agent` 硬砍成 `agent filling...` 这种不伦不类的半截话。
+```
+执行方式：
+- 提问、调侃只围绕图或视频里真实出现的东西；画面里没有的界面、按钮、流程、报错都不编
+- 大小写和标点按正常口语来：句首大写、问句加问号；全小写和碎句只在自然的时候偶尔用，不再要求“3 条里至少 1 条全小写”（取代前面“打乱大小写节奏”那条的硬性要求）
+- 冠词、主语该有就有，不为了碎句感硬砍成半截话
+- 规则里的举例词和例句一律只当思路，不照搬
+- 原则：自然松弛优先，不刻意装随性
+- 反例：回 Bee 时写了 “what happens if the card gets declined mid checkout”（画面里没有信用卡支付界面，问句也没加问号）和 “agent filling the whole shipping form by itself...”（硬砍掉 the），违规
