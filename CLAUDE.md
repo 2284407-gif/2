@@ -1509,3 +1509,15 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 补充的细节要是公开、能核实的事；没把握的具体事迹（比如某人回过谁的邮件）不编，改成泛泛但具体的画面
 - 例句照旧只当思路，不照搬
 - 反例：回 Aravind Srinivas 时写了 “his time with early founders was the underrated part of the whole story”，前后对称加传记旁白式总结，违规
+
+### 第二十八节补充：单边视角铁律 + 技术逻辑不乱搭 + 封杀点评收尾词（2026-11-13 用户追加，覆盖短回复和中回复）
+```
+1. 单边视角铁律（彻底消灭上下句）：一条评论只允许表达一个单向念头，严禁在 15 个词以内玩“虽然A但是B / 哪怕A还是B”的转折对称结构。想夸速度就直接夸速度，想吐槽就单刀直入吐槽，不要左右互搏写辩证金句。
+2. 技术逻辑严禁乱搭：只围绕原推实际提到的技术指标接茬（原推聊 tok/s 速度就聊延迟或等待体验，绝不能拿速度去硬扯 token 账单成本）。
+3. 封杀总结教学词：禁用 `matters most`、`the real tell`、`of the whole story` 这类点评家收尾词。
+```
+执行方式：
+- 短回复和中回复都只有一个方向的念头：不写“虽然 A 但 B”“哪怕 A 还是 B”“A, still B”“A but B”这类让步转折结构
+- 原推聊哪个技术指标，就围着它接（速度就聊延迟、等待体验；价格就聊成本；跑分就聊分数），不把两个不相干的指标硬扯在一起
+- 不用点评家收尾词：matters most、the real tell、of the whole story、is what counts、is the key
+- 反例：回 Eco 的 Hydrogen 速度帖时写了 “fast thinking tokens still add up on the bill”（让步转折加乱搭计费）和 “that speed matters most in agent loops”（点评家收尾词），违规
