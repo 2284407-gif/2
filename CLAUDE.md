@@ -802,3 +802,8 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 额度焦虑用通用体感说：hitting the cap、rationing messages、switching back to Opus before I run out
 - 不用 open on my screen 这类中式直译，改成 my default tab、my go-to tab
 - 反例：回 Arun 时写了 “the limit bar is already yellow”（编造进度条颜色）、“ate my whole week's limit”（编造按周额度）、“Opus is still open on my screen all day”（中式直译），都违规
+
+### 第十九节补充：中回复和轻松调侃的角度必须拉开（2026-11-12 用户追加）
+- 三条回复各自一个角度，尤其【中回复】和【轻松调侃】不能是同一个意思换个短句再说一遍
+- 写完对照：中回复聊了 A（比如额度消耗快、省着用），轻松调侃就换 B（比如大家嘴上喊着换新模型，实际还是留着老主力）
+- 反例：回 Arun 时中回复写“跟 Fable 聊几轮就开始省着发消息”，轻松调侃又写“问一个难题就赶紧切回 Opus 免得撞上限”，两条都是额度焦虑，角度重复
