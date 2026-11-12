@@ -575,3 +575,11 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 写之前先通读原帖全文和配图，找出核心结论（多半在最后一段或配图里），回复直接回应它
 - 不抓第一句的铺垫词硬玩梗，不跑到原帖没讲的话题上
 - 其余规则（砍主语系动词冠词、短语硬拼、6~12 词、全小写不加句号、不用 ... 和 —、黑话准确、前提不编）照旧
+
+### 第十六节更新：禁止等于号，少用符号（2026-11-12 用户追加，取代“用 + 或 / 代替 and”）
+```
+3. **纯文字短语硬拼（严禁使用等于号）**：直接用名词短语、动词短语堆叠，用空格或极简口语词（is, just, literally）自然衔接。**严格禁止使用 `=`（等于号）**，少用符号，保持纯打字的自然感。
+```
+执行方式：
+- 回复里不出现 =，+ 和 / 也尽量不用，短语之间用空格或 is、just、literally 衔接
+- 反例：“day one hire list = half of nvidia's org chart lol”“every keynote = jensen comparison thread lol”“flash = daily driver”，用了等于号，属于违规
