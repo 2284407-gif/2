@@ -1443,3 +1443,8 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 别人的说法、体验评价照样不能说成 Anika 自己测过的：用不点名的说法交代来源，如 early access testers say、people who've tried it say、reportedly
 - 出处靠引用转发原帖来体现，不写在正文里
 - 反例：改写 Lumina 的 Hydrogen 帖时写了 Per @LuminaBench, it's been in early access testing...，点了别人的名，违规
+
+### 用户反馈：先读懂截图再写，不过度解读（2026-11-12 用户指出）
+- 写主帖、改写之前，先把截图逐行读懂：能确定什么、确定不了什么（谁的代码、条目之间什么关系、有没有被裁掉）
+- 截图信息不全或有歧义时，先告诉用户哪里看不出来，再按能确定的部分写；不能先把猜测当事实写进推文
+- 反例：gemini-4-hydrogen-eap 的截图里，leave-out-until-priced 是列表里挨着的另一条，看不出和 Hydrogen 的关系，却写成了“Hydrogen 名字旁边挂着没定价不放出来的标记”“门上挂着牌子”，过度解读，害用户差点发出错误内容
