@@ -1187,3 +1187,15 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 【轻松调侃】必须有反讽或幽默，不能是采访式的正经提问
 - 短回复和轻松调侃默认小写开头（专有名词照常大写）；中回复可以正常大小写（取代第十九节纠偏里“句首该大写就大写”对这两栏的要求）
 - 反例：回 Mikhail Parakhin 时写了 “Carbon's coding still feels iffy to me too”（复述主语，又暗示实测）和 “Which math problems was Fable winning on?”（采访式提问冒充调侃），违规
+
+### 第二十四节补充：母语级自然搭配校准（2026-11-12 用户追加）
+```
+1. 宁可用最朴素的大白话，也绝不为了避开禁用词而生造怪异搭配：严禁为了替换常用词而拼凑母语者不说的生硬表达（例如把推理档位生造为 `full reasoning`，或者用特指“隐藏套路”的 `the catch` 去形容“模型写代码弱”）。没有更地道的词时，直接用最简单的大白话（如 `still weak on coding` 或 `not even full thinking`）。
+2. 保持第 3 条的圈内吃瓜联想水准：像 `google comms already drafting the chart` 这种基于行业公关/营销习惯的自然联想非常地道，继续保持这种“圈内人随口吐槽”的质感，不要硬凑修辞。
+```
+执行方式：
+- 避开禁用词时，退回到最朴素的大白话，不拼凑母语者不说的搭配；每个词先确认它在母语里的真实含义（如 the catch 指隐藏的坑、附加条件，不能拿来说“写代码弱”）
+- 禁用词规则和自然度冲突时，自然度优先：宁可用最简单的普通词
+- 轻松调侃继续走圈内人的自然联想：行业公关、营销、发布节奏、发帖习惯这类，随口一句，不凑修辞
+- 正面示例（只当方向，不照搬）：回 Mikhail Parakhin 的 google comms already drafting the chart
+- 反例：回 Mikhail Parakhin 时写了 “carbon wasn't even running full reasoning”（生造档位说法）和 “yeah coding's still the catch”（the catch 用错含义），违规
