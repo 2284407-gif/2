@@ -882,3 +882,14 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 ## 二十、规则自动同步（2026-11-12 用户要求）
 - 用户教完新规则，不用等用户说“同步”：立刻把原文、执行方式、反例追加到本文件，提交并推送到仓库，然后从远端核对一遍，再回复确认
 - 推送前先 git pull；本机没配 git 身份，提交时用 `-c user.name="2284407-gif" -c user.email="2284407-gif@users.noreply.github.com"`，不要用用户的真实邮箱
+
+### 第十九节补充：写 instead of 前先核对原推（2026-11-12 用户追加）
+```
+1. 做 `instead of ...`（用 A 代替 B）这类对比句式时，必须先核对原推是否已经明确说出了 B：
+   - 刚刚这组里，原推第一句已经明确写了具体日期 `Thursday`（`Thursday is feeling codexy to me`），造词 `codexy` 是在暗示“有更新动作”，而不是在隐瞒日期。写成 `went with codexy instead of giving an actual date` 会直接暴露没读懂原句的硬伤。
+   - 自检规则：凡是写 `instead of X`（而不是说 X），必须回头确认原推里真的没有出现 X；如果只是在夸博主造词暗示更新，直接顺着造词本身的趣味聊（例如 `turned "codexy" into a whole teaser`），不要强行对比。
+```
+执行方式：
+- 写 instead of X、rather than X、without X 这类“用 A 代替 B”“没说 B”的句子前，回头核对原推和引用推里有没有出现 X；出现了就不能这么写
+- 夸博主造的词、暗示的说法时，直接聊这个词本身好玩在哪，不硬拉一个对比
+- 反例：回 Astro Polo 时写了 “Love that Tibo went with codexy instead of giving an actual date”，但 Tibo 原话已经写了 Thursday，违规
