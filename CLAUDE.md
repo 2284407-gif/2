@@ -933,3 +933,20 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 第 6 条在第十四节第 2 条基础上补了 everyone、half the timeline、definitely
 - 第 7 条是新增：中文意思严格照英文翻，不加戏、不夸大；第十七节要的“神态翻译”和括号里的神态描述不再用
 - 反例（第 7 条）：英文 SSD prices have been rough 译成“贵得肉疼”，英文 Love that Tibo went with codexy 译成“这吊胃口的方式挺妙”，都比英文更夸张、加了戏
+
+### 第十九节补充：反 AI 句式套路（2026-11-12 用户追加，并入第二十一节自检）
+```
+1. 禁止高频 AI 省主语起手式连用：
+   - 同一组 3 条回复中，严禁连续两条使用 `Curious how...`、`Just hoping...`、`Love how...`、`Wild that...` 这类固定口语起手式。至少一条要用最直白的正常主语或纯碎句/反应词开头（例如 `okay...`、`wait...`、`the checkout demo...`）。
+2. 禁止一句话说完后硬补“总结/升华尾巴”：
+   - 意思表达完整就立刻收尾（例如 `curious how it handles a checkout failing halfway` 到这里直接结束），严禁在后面再加 `. That's what I'd want to see` 这类凑字数的废话尾巴。
+3. 打乱句式与首字母大小写节奏：
+   - 真人随手回评论不会每条都像标准英文作文。3 条里至少有 1 条采用更松弛的推特碎句或全小写随手打字感（如 `hoping that demo agent didnt actually hit place order`），避免三条全部工整对齐。
+```
+执行方式：
+- 一组 3 条里，Curious how、Just hoping、Love how、Love that、Wild that、Can't wait 这类固定起手式最多出现一次，不能连着两条用；至少一条用正常主语，或 okay、wait、the checkout demo 这类碎句、反应词开头
+- 意思说完就停，不在后面补 That's what I'd want to see、That's the part that matters、which says a lot 这类总结尾巴
+- 3 条里至少 1 条是松弛的碎句或全小写随手打字（可省撇号），其余正常大小写，三条格式不要整齐划一
+- 示例里的 ... 只是示意，回复里仍然不用省略号
+- 加入第二十一节自检清单第 8 条：起手式有没有连用、有没有总结尾巴、三条格式是不是太整齐
+- 反例：回 Bee 时中回复写了 “Curious how it handles a checkout that fails halfway. That's what I'd want to see”（加了总结尾巴），轻松调侃紧接着用 “Just hoping...” 开头（起手式连用），三条又都是标准大小写，违规
