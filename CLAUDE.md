@@ -566,3 +566,12 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 写之前把原帖和配图细节过一遍，回复里的前提必须和原帖一致，不为玩梗编造矛盾前提
 - 口语词可用 tbh、lol、same、tho
 - 反例：回 smlay “Likely someone with NVIDIA background” 时写了 “outsider would need a year just to learn the cuda politics lol”，politics 是中式直译、不符合圈内说法；应改成 “outsider = year one just learning cuda lore lol”
+
+### 第十六节更新：死死咬住核心主旨（2026-11-12 用户追加）
+```
+1. **死死咬住核心主旨（绝对不跑题）**：生成前先通读原帖全部内容与配图，找出博主真正想表达的**核心结论（通常在最后一段或配图实锤里）**。回复必须直接回应这个核心结论或配图里的关键信息，**严禁偷懒只盯着第一句话的铺垫词硬玩梗**。
+```
+执行方式：
+- 写之前先通读原帖全文和配图，找出核心结论（多半在最后一段或配图里），回复直接回应它
+- 不抓第一句的铺垫词硬玩梗，不跑到原帖没讲的话题上
+- 其余规则（砍主语系动词冠词、短语硬拼、6~12 词、全小写不加句号、不用 ... 和 —、黑话准确、前提不编）照旧
