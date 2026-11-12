@@ -950,3 +950,18 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 示例里的 ... 只是示意，回复里仍然不用省略号
 - 加入第二十一节自检清单第 8 条：起手式有没有连用、有没有总结尾巴、三条格式是不是太整齐
 - 反例：回 Bee 时中回复写了 “Curious how it handles a checkout that fails halfway. That's what I'd want to see”（加了总结尾巴），轻松调侃紧接着用 “Just hoping...” 开头（起手式连用），三条又都是标准大小写，违规
+
+### 第十九节补充：粉碎教科书主谓宾语法（2026-11-12 用户追加，并入第二十一节自检第 8 条）
+```
+1. 严禁照抄提示词里的举例词：禁止为了凑“随手打字感”而在完整陈述句前面硬加 `okay`、`wait` 这种帽子（例如 `okay parallel browser tasks are a nice upgrade` 这种“前松后紧”的割裂句式）。
+2. 用动名词/动词碎句代替完整名词主语：
+   - 少写 `Parallel browser tasks are a nice upgrade` 这种标准主系表。
+   - 改用更口语的动词/动名词起手或碎句，例如 `running multiple browser tasks at once actually looks useful` 或 `parallel browser tasks finally`。
+3. 口语副词自然嵌进句中或句尾：适当用 `actually`、`though`（放句尾）、`for once` 等母语口语连接感，让句子像脱口而出，而不是写出来的短评。
+```
+执行方式：
+- 用户规则里给的举例词、例句（okay、wait、parallel browser tasks finally 等）不照搬进回复，每次自己按语境写
+- 不在完整的标准陈述句前面硬扣 okay、wait 之类的帽子
+- 少用“名词主语 + is/are + 形容词短语”的标准主系表；多用动名词、动词起手或碎句
+- actually、though（放句尾）、for once 这类口语副词可以自然嵌进句中或句尾；一组 3 条里一两处就够，不每条都塞（第十六节“句尾默认干净”针对 lol、tbh、表情这类尾缀，不限制这几个连接副词）
+- 反例：回 Bee 时写了 “okay parallel browser tasks are a nice upgrade”，照搬举例词 okay 当帽子，后半句又是标准主系表，违规
