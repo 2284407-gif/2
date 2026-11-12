@@ -990,3 +990,17 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 和第九节“不描述画面细节”的关系：那条禁的是一样样看图说话；这条是挑一个具体细节当笑点、给出自己的反应，一条回复只抓一个点
 - 引用画面里的数字前先看准，看不清就不用
 - 反例：回 Bee 时写了 “agent clicking through a bunch of tabs at once”，画面里只有一个结账页面，并没有多个标签页，硬塞了举例词
+
+### 第十九节补充：去旁白感（2026-11-12 用户追加，并入第二十一节自检第 8 条）
+```
+1. 碎句必须带情绪落点，严禁只写“看图说话”短语：
+   - 写动名词或碎句时，不能只干巴巴描述画面动作（例如 `watching it fill out the whole shipping form on its own` 就像视频字幕，不像人话），必须带出主观反应或结果（例如加上 `is wild`、`actually looks clean` 或直接吐槽细节）。
+2. 打破“永远温和提问”的中回复套路：
+   - 少用 `Curious how...` 这种像产品经理做调研的温和起手式，改用更直接的口语疑问或预判（例如 `wonder what happens when a payment fails mid checkout` 或 `would love to see this handle a broken checkout flow`）。
+```
+执行方式：
+- 碎句、动名词句不能只描述画面里在发生什么（像视频字幕），要带出自己的反应或结果：觉得顺不顺、值不值、好不好笑，或直接吐槽一个细节
+- 例子里的 is wild 和第五节禁用的 AI 套话冲突，不用；换成 looks smooth、actually works、kinda impressive 这类别的反应
+- 中回复少用 Curious how 这种调研式温和起手；改成直接的口语疑问（what happens if...、wonder if...）或预判（bet it...、would love to see...）
+- 例子里的整句不照搬，按当前帖子自己写
+- 反例：回 Bee 时写了 “watching it fill out the whole shipping form on its own”（只有画面描述，没有反应）和 “Curious how it handles a checkout failing halfway”（调研式温和起手），违规
