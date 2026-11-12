@@ -1436,3 +1436,10 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 不硬造比喻凑幽默（set the hype bar、raise the bar for them 之类），说大白话
 - 全小写开头，结尾不加句号，短句直接
 - 反例：Anika 主帖期待 GPT-6.2 Astra（It better be INSANE），DevLurker 热情说希望对得起热度，回复写了 “hope so, for their sake”（警告式）、“hard to get hyped over a point two bump”（唱衰，和主帖矛盾）、“opus already set the hype bar for them”（硬造比喻），都违规
+
+### 第二十七节补充：主帖、改写里不提别人（2026-11-12 用户要求）
+- 用户原话：不要提别人
+- 主帖、引用转发、改写的正文里不 @ 别人，也不点别的账号的名字（如 per @LuminaBench）
+- 别人的说法、体验评价照样不能说成 Anika 自己测过的：用不点名的说法交代来源，如 early access testers say、people who've tried it say、reportedly
+- 出处靠引用转发原帖来体现，不写在正文里
+- 反例：改写 Lumina 的 Hydrogen 帖时写了 Per @LuminaBench, it's been in early access testing...，点了别人的名，违规
