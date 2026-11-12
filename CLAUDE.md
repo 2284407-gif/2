@@ -978,3 +978,15 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 少用产品文档、评测摘要里的书面词（multiple browser agents、functional layers、parallel execution、workflow orchestration 等），换成用户顺嘴说的词：tabs、flows、carts、clean、solid 之类
 - 写完读一遍：像不像刚看完视频随手发的弹幕？像评测摘要就改
 - 反例：回 Bee 时写了 “multiple browser agents running side by side, finally”，既有修辞逗号，又用了 multiple browser agents 这种说明书词汇，违规
+
+### 第十九节补充：不硬塞举例词 + 抓具体细节和数字（2026-11-12 用户追加，并入第二十一节自检第 8 条）
+```
+1. 严禁机械照抄提示词里的举例词：提示词里的 `tabs`、`okay` 等词只是思路参考，绝不能脱离原图画面硬塞（例如画面里没有多个标签页就不要硬写 `a bunch of tabs`）。
+2. 用“具体细节/数字”代替“概括性描述”：调侃或评论时，优先抓画面里具体的数字、价格或小细节（例如直接吐槽金额 `$103`），而不是干巴巴地复述按钮名字或功能概念；语气要有真实推友的随性感，不要像产品经理在写功能验收单。
+```
+执行方式：
+- 规则里的举例词（tabs、okay、clean、solid 等）只是思路，画面或原文里没有对应的东西就不用
+- 调侃优先抓画面里一个具体的数字、价格或小细节来吐槽（如购物车里某件东西的价格），不复述按钮名、功能名
+- 和第九节“不描述画面细节”的关系：那条禁的是一样样看图说话；这条是挑一个具体细节当笑点、给出自己的反应，一条回复只抓一个点
+- 引用画面里的数字前先看准，看不清就不用
+- 反例：回 Bee 时写了 “agent clicking through a bunch of tabs at once”，画面里只有一个结账页面，并没有多个标签页，硬塞了举例词
