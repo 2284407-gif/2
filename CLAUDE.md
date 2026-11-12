@@ -1223,3 +1223,16 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 三条只围绕原推里最值得聊的一个切入点，从不同角度写；原推其他细节直接不接（比上一条“可以围绕同一角度”更严格：现在是必须只挑一个）
 - 例句照旧不照搬
 - 反例：回 Mikhail Parakhin 时写了 “carbon on max would be scary”（惊叹吹捧）和 “yeah its coding is still bad”（低幼主系表），三条又分别接了档位、写代码、发榜营销三个点，违规
+
+### 第二十四节补充：不下定义 + 顺着原推情绪 + 省句首冗余 the（2026-11-12 用户追加）
+```
+1. 严禁写“X is what most people...”、“X mostly exists for...”这类教科书下定义句式：评论区不是维基百科词条，不要端着架子向博主或路人科普“大多数人怎么用”或“某功能存在的意义”。把完整陈述句砍成没有主谓宾套路的圈内碎句（例如用 `purely benchmark theater` 或 `nobody's waiting 3 mins per prompt` 代替整句定义）。
+2. 必须顺着原推的情绪语境接茬，禁止当“科普纠正员”：看清博主是在夸还是在嫌弃（例如博主嫌弃 `High` 档位太受限，就顺着聊受限或算力代价，绝不能跑去解释“其实大多数人日常就用 High”，显得像没看懂上下文的机器人）。
+3. 去掉句首不必要的定冠词 `the`：随手打字时省掉冗余的 `the`（如 `token bill on max would hurt` 比 `the token bill on max would hurt` 更自然）。
+```
+执行方式：
+- 不写下定义、科普意义的句子：X is what most people...、X mostly exists for...、X is basically for...、X is meant for...；改成不套主谓宾的圈内碎句
+- 先看清博主的情绪（夸、嫌弃、惊讶、调侃），顺着接；不跑去纠正、科普“其实大家都这么用”
+- 句首冗余的 the 可以省（取代第十九节纠偏里“冠词该有就有”对句首 the 的要求；句中冠词照常）
+- 例句照旧不照搬
+- 反例：回 Mikhail Parakhin 时写了 “High is what most people actually run day to day, max is too slow for that”（下定义加科普纠正）和 “max effort mostly exists for benchmark screenshots”（下定义），违规
