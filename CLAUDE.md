@@ -1210,3 +1210,16 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 三条不必把原推的每个点分开各接一个；可以都围绕最有意思的那一个角度发散（取代“中回复和轻松调侃角度必须拉开”里“一条一个点”的硬性分配；三条仍然不能是同一句话换个说法）
 - 例句照旧不照搬
 - 反例：回 Mikhail Parakhin 时写了 “yeah coding is still where it struggles”（绕弯的表语从句）；三条又分别对应了原推的推理档位、写代码、数学三点，像逐条答题
+
+### 第二十四节补充：不写惊叹吹捧句 + 不写低幼主系表 + 只挑一个切入点（2026-11-12 用户追加）
+```
+1. 严禁使用 `would be scary`、`is insane`、`is crazy` 这类粉丝吹捧惊叹句：圈内人看到推理档位受限，聊的是算力开销、延迟或实际代价（如 token 燃烧速度），绝不写无脑感叹句。
+2. 禁止写出 `its coding is still bad` 这种小学生英语课本主系表句式：短句不等于低幼语法。吐槽模型短板要用圈内老推友的口语质感（如 `coding is still a mess` 或 `still wouldn't trust it with real code`），严禁用 `is bad`、`is good` 这种干瘪形容词收尾。
+3. 彻底打破“按原推顺序 1、2、3 逐点对应”的答题卡分布：只挑原推里最值得聊的一个切入点（比如只聊推理开销，或者只聊厂商发榜营销），从不同角度写三条，直接忽略原推提到的其他细节，禁止做全面覆盖的阅读理解。
+```
+执行方式：
+- 不写 would be scary、is insane、is crazy、is wild、goes hard 这类粉丝式惊叹；聊档位、性能时说实际代价：算力开销、延迟、token 消耗
+- 不用 is bad、is good、is nice 这类干瘪形容词收尾的低幼主系表；短句也要有圈内口语质感
+- 三条只围绕原推里最值得聊的一个切入点，从不同角度写；原推其他细节直接不接（比上一条“可以围绕同一角度”更严格：现在是必须只挑一个）
+- 例句照旧不照搬
+- 反例：回 Mikhail Parakhin 时写了 “carbon on max would be scary”（惊叹吹捧）和 “yeah its coding is still bad”（低幼主系表），三条又分别接了档位、写代码、发榜营销三个点，违规
