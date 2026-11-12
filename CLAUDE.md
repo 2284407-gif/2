@@ -538,3 +538,20 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 回复里不出现 ...，破折号尽量不用；停顿用逗号、空格，或拆成两个短句
 - 结尾一律不加句号
 - 反例：“stalled is a stretch tho... qwen4 max literally dropped a preview this week”“my money's still on compute — distillation drama is just louder lol”，用了 ... 和 —，属于违规
+
+### 第十六节更新：再碎一点，短语硬拼（2026-11-12 用户追加）
+```
+把下面这些推特回复改写得更“碎”、更短，变成真人在手机上单手秒回、脑子里蹦出一个词就打一个词的感觉。
+
+严格执行以下修改规则：
+1. **砍掉完整句子结构**：删掉所有非必要的主语（it, that, I, we）、系动词（is, are, gets）和冠词（the, a）。不要写完整的“主谓宾”顺滑长句。
+2. **用短语和词组硬拼**：直接用名词短语、动词短语堆叠。用 `+` 或 `/` 代替 `and`（例如把 "the flagship and a wide berth" 改成 "flagship + wide berth"）。
+3. **强制拆句与控字数**：把长句用句号直接劈成两截极短的片段，整条回复控制在 6~12 个词以内，禁止用逗号连成一长串。
+4. **保留口语习惯**：全小写开头，结尾不加句号，禁止使用 `...`（三个点）和破折号（—），可自然带一个口语词（tbh, lol, same, tbh）或克制的表情。
+```
+执行方式：
+- 中回复控制在 6~12 个词；短回复照旧 2~5 个词
+- 删掉非必要的 it / that / i / we、is / are / gets、the / a，用名词短语、动词短语堆
+- and 用 + 或 / 代替；长句用句号劈成两段，不用逗号串成一长串
+- 全小写，结尾不加句号，不用 ... 和 —
+- 反例：“nobody on my team touches that file anyway, it gets the flagship and a wide berth”（16 个词、逗号串句、有冠词和系动词）；应改成 “nobody on my team touches it. flagship + wide berth”
