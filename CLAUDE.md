@@ -528,3 +528,13 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 省略主语和连词，可以用 ... 或 — 硬拼（本节允许破折号，取代第五节“不用破折号”）
 - 全小写，结尾不打句号；lol、tbh、fair、ngl 这类口语词自然带一个，表情克制
 - 反例：回夸先生写了 “if that's the hold up, the Pro is waiting on hardware, not on quality. that's a much better story”，属于“假设 + 判断 + 总结”的工整结构；应改成 “stuck on chips not quality... way better story tbh”
+
+### 第十六节更新：禁止省略号，少用破折号（2026-11-12 用户追加，取代第十六节第 3 条）
+```
+3. **禁止滥用省略号和破折号**：绝对不要用 `...`（三个点），破折号（—）也尽量不用。句内停顿直接用逗号、空格，或者直接拆成两句短句，模仿手机盲打不爱切符号键盘的习惯。
+4. **口语杂质与格式**：全小写开头，结尾不加句号；自然加入随性口语词（lol, tbh, fair, ngl）和克制的表情，去掉一切翻译腔和说教感。
+```
+执行方式：
+- 回复里不出现 ...，破折号尽量不用；停顿用逗号、空格，或拆成两个短句
+- 结尾一律不加句号
+- 反例：“stalled is a stretch tho... qwen4 max literally dropped a preview this week”“my money's still on compute — distillation drama is just louder lol”，用了 ... 和 —，属于违规
