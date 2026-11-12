@@ -765,3 +765,15 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 示例里的 ... 只是示意，回复里仍然不用省略号
 - 多层转发时，最外层推主只写了一句很短的附和（Sharp perspective、this、facts 等），就直接接底层那件事，用跟互关好友一起看热闹的口气，不当评论员
 - 反例：回 Mariko 时写了 “One short reply from Elon and the whole Nvidia board story got a new angle”“Nvidia's board agenda just picked up one more item”，属于新闻摘要腔，违规
+
+### 第十九节补充：不用陈旧吃瓜套话 + 口语语序要顺（2026-11-12 用户追加）
+```
+1. 避免陈旧网络套话：
+   - 少用 "grabbed the popcorn"（拿爆米花看戏）这种用烂了的古早吃瓜套话，改用更自然、更像当下 X 网友随口吐槽的表达（例如 "completely changed the plot"、"turned into a movie"）。
+2. 检查口语语序顺畅度：
+   - 避免写 "A is when I did B" 这种偏拗口的解释性句式，多用母语者顺口说出的时间/因果短句（如 "The second X happened, ..." 或省略主语的口语短句如 "Can't imagine..."）。
+```
+执行方式：
+- 不用 grabbed the popcorn、popcorn time、grab your popcorn 这类用烂的吃瓜套话；换成当下 X 上随口的说法，如 completely changed the plot、turned into a movie
+- 不用 “A is when I did B” 这种解释性句式；改成顺口的时间、因果短句（The second X happened, ...），或省略主语的口语短句（Can't imagine...）
+- 反例：回 Mariko 时写了 “Elon popping into the thread is when I grabbed the popcorn”，既是陈旧套话，又是 A is when I did B 的拗口句式
