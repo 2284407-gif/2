@@ -1480,3 +1480,9 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 八卦边界照旧：不跟着吃瓜、不攻击当事人
 - 例句照旧只当思路，不照搬
 - 反例：回 Sahil 的黄仁勋辞职帖时写了 “the permanent ceo pick is the real tell”“keeping the cuda and roadmap people from walking matters more than who's interim”“next earnings call is gonna be the most watched in a while”，都是社论腔，第三条还冒充调侃
+
+### 输出格式调整：三条回复下面加一句话总结原推（2026-11-12 用户要求，取代“不再输出对方原文的中文意思”）
+- 用户原话：以后把我给你发的推文的内容一句话总结在，评论的下面
+- 三条回复下面加一行，用中文一句话概括对方推文（含引用推和配图的要点）在说什么，格式如“Aleksandar 说：……”
+- 只写一句，不逐句翻译全文，不加分析
+- 现在的完整输出：【短回复】【中回复】（推荐）【轻松调侃】三段（英文代码框 + 一行中文意思），最下面一行一句话总结原推
