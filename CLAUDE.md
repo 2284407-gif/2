@@ -750,3 +750,18 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 短回复不用光秃秃的 this、that、it 凑句子，要点出这条推文里的具体动作或对象；可以提到原推的关键对象，但不照搬整句
 - 写完短回复自查：这句放到别的帖子底下还成立吗？成立就是万能句，重写
 - 反例：回 Trí “先要个小例子” 时写了 “Yeah, I've been doing this a lot lately”（万能代词）和 “When the answer gets longer than my original code, I go back and reread my question”（硬塞 code，且是 longer than my 比较句），都违规
+
+### 第十九节补充：去掉新闻摘要腔 + 多层转发接底层事件（2026-11-12 用户追加）
+```
+1. 禁止“新闻摘要式”概括句：
+   - 真人刷推特不会用 "the whole [X] story got a new angle"（整个某某故事多了个新角度）或 "agenda picked up one more item"（议程又多了一项）这种像新闻导语、会议纪要的书面总结腔。
+   - 改用更口语、有画面感的吃瓜表达，比如直接描述大家的反应（"suddenly everyone's talking about..."）或现场的微妙气氛（"meetings are definitely getting awkward..."）。
+2. 注意多层转发的焦点：
+   - 当最外层推主只写了极短的附和词（如 "Sharp perspective."）时，回复要自然接住底层吃瓜事件本身，带点跟互关好友一起看热闹的松弛感，不要端着架子当评论员。
+```
+执行方式：
+- 中回复和轻松调侃不写新闻导语、会议纪要式的概括句（story got a new angle、agenda picked up one more item、adds a new layer to 等）
+- 改成口语、有画面感的吃瓜说法：写大家的反应（suddenly everyone's watching...），或现场的微妙气氛（that next meeting is gonna be awkward）
+- 示例里的 ... 只是示意，回复里仍然不用省略号
+- 多层转发时，最外层推主只写了一句很短的附和（Sharp perspective、this、facts 等），就直接接底层那件事，用跟互关好友一起看热闹的口气，不当评论员
+- 反例：回 Mariko 时写了 “One short reply from Elon and the whole Nvidia board story got a new angle”“Nvidia's board agenda just picked up one more item”，属于新闻摘要腔，违规
