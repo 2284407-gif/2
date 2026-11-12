@@ -1158,3 +1158,18 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 自嘲不写“A 做了 B，意味着 C 怎样”的严密因果长句，拆成两截碎句
 - 例句照旧只当思路，不照搬
 - 反例：回 Mikhail Parakhin 时写了 “and that's Carbon on a short leash”（文采习语）、“fair, coding is still its weak spot”（规整词组）、“Fable getting good at math means my usage cap is even more doomed”（工整因果长句），都违规
+
+## 二十四、不照范例完形填空（2026-11-12 用户追加，覆盖前面各节给过的所有示例句式）
+
+### 原提示词（保存原文）
+```
+1. 清空所有历史示例句式，严禁套模板：忘掉之前给过的 `and that's...`、`fair, ...`、`[前半句]. there goes/rip...` 等固定句式，每次必须根据推文语境重新组织最自然的口语，绝不拿固定结构做完形填空。
+2. 禁止为了避开原词而用生硬搭配：直接用圈内最地道的原生说法（例如聊推理档位直接说 `capped at high` 或 `not even max effort`，绝不生造 `held back to high` 这种不地道的词组）。
+3. 只说一个念头，不玩“先铺垫再反转”的段子结构：真人刷推 2 秒钟打字，一条回复只丢一个最直接的念头（要么直接问细节，要么直接吐槽，绝不“前半句复述原推 + 后半句接包袱”）。
+```
+
+### 执行方式
+- 前面各节规则里出现过的所有示例句、例词、句式（and that's...、fair, ...、... . there goes / rip ...、Count me in...、Curious how... 等）都只是当时的纠错示意，不再当模板用；每次按当前推文重新组织口语
+- 为了不和原推撞词而硬造的说法不用；圈内本来就这么说的原生说法直接用（如 capped at high、not even max effort），哪怕跟原推有词重合（第十四节第 8 条“不复述原帖”管的是不照搬整句、不复读原推的意思，不是禁止用行业通用说法）
+- 一条回复只丢一个念头：要么问一个细节，要么吐一个槽，要么下一个判断；不写“前半句复述原推，后半句接包袱”的段子结构
+- 反例：回 Mikhail Parakhin 时写了 “and that's Carbon held back to high”（生造搭配）、“Fable's good at math now. there goes my usage cap”（前半句复述原推加后半句包袱，又是套模板），违规
