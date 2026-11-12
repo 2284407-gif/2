@@ -854,3 +854,15 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 只从围观者或等官宣用户的角度聊：跑分对比、官方博客、发布节奏、等公开上线
 - “已确立的经历”里写明能用的（如 Opus、Claude、Codex、Gemini Carbon）可以聊日常使用，但不加没确认过的具体数据（延迟、价格、跑分）
 - 反例：回 Jaysen 时写了 “Three days of Gemini news and I still haven't finished testing Decision 1”，编造了实测 Decision 1 的经历，违规
+
+### 第十九节补充：倍数对比必须写清参照对象（2026-11-12 用户追加）
+```
+1. 引用排行榜数值做“翻倍/倍数”对比时，必须写清参照对象，严禁语焉不详：
+   - 当对比两个模型的得分（例如榜首 +30.4% 与第六名 +14.5%）时，不要写出 `has more than double to make up` 这种缺少参照物、容易引起歧义的残缺句式。
+   - 要么直接引用图中的具体百分比或排名（例如 `sits sixth at +14.5%, so 6.2 has a massive gap to close`），要么明确写出是“分数需要翻倍”（`needs to more than double that score`），确保母语者一眼看懂且数学逻辑无懈可击。
+```
+执行方式：
+- 说倍数、翻倍时，写清是谁的什么数字跟谁比：直接带上图里的百分比或排名，或者写明 needs to more than double that score
+- 写之前先算一遍（如 30.4 ÷ 14.5 ≈ 2.1，确实超过两倍），算不准就不说倍数，只说差距大
+- 图表里的百分比和排名可以用来做对比（第六节“不复述原帖数字”指不照搬帖子正文里的数字来凑话）
+- 反例：回 Aurora 时写了 “GPT-6 Astra sits sixth right now, so 6.2 has more than double to make up”，没说清是什么翻倍，违规
