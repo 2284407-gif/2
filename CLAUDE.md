@@ -1537,3 +1537,10 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 回 Joshua Gabriel 的教育和 AI 帖时写了 “exams need the rework first”“having something explain it five different ways till it clicks would've changed school for me”“syllabus already outdated”，语法完整、撇号齐全、词选得太干净，一眼像修过的
 - 改法：允许真人打字的毛边，比如省撇号（wouldve、its、im）、口语缩写（til、stuff、re explain）、语序随口、偶尔带一个 tbh 或 lol；不追求每个词都选得最准，读起来像没回头检查过就发了
 - 底线不变：词性和主谓不能错，不复述原推，三条长短照旧拉开
+
+### 用户反馈：长度随机，别套固定词（2026-11-13 用户追加，覆盖前面各节对短回复、中回复字数的硬性规定）
+- 用户原话：不是每句都要这些你要像个真人随手打的一样。每句话不要固定是那几个词。你一个词，2个词，3个词，4个词，5个词，6个词，都行。随机着来
+- 三条回复的长度在 1~6 个词之间随机，每次都不一样，不再固定“短 / 中 / 三个词”的梯度
+- 不是每条都要省撇号、带 tbh、lol、til 这类“毛边”；毛边偶尔出现，不当成固定配方
+- 不反复用同一批词和句式；像真人刷到就随手回一下
+- 反例：回 Joshua Gabriel 时三条都塞了 tbh、wouldve、til、lol 这类词，看着像刻意装随意
