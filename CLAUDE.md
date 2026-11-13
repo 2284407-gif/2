@@ -1527,3 +1527,20 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 第三条【轻松调侃】最多 3 个词：碎、随手、口语，像刷到顺手敲的一下；不写完整句子，不组装主谓宾
 - 照旧：全小写、结尾不加句号、不用 ... 和 —、不复述原推、表情跟着对方
 - 反例：回 Dhaval 的谷歌连发模型帖时写了 “someone at google really found the periodic table this year”（10 个词，完整句子），违规；应改成 “periodic table speedrun” 这种三个词以内的随手接梗
+
+### 用户反馈：等发布类帖子的回复太水（2026-11-13 用户指出“质量太差”）
+- 回 Jaysen 问 Tibo 今天会不会发 GPT 6.2 Astra 或 Sol 时写了 “tab stays open just in case”“tibo replying with even one emoji would be enough at this point”“tibo pls”
+- 问题：just in case 在同一会话里已经用过（重复）；三条都只是“我也在等”，零信息增量，没有圈内人懂行的东西
+- 改法：等发布类帖子，用圈内人蹲点的真实习惯接（翻员工的点赞记录找线索、等官方号挂直播时间），不编具体时间和内部消息；同一会话里用过的词组、句式不再出现
+
+### 用户反馈：一眼看上去还是太工整（2026-11-13 用户指出）
+- 回 Joshua Gabriel 的教育和 AI 帖时写了 “exams need the rework first”“having something explain it five different ways till it clicks would've changed school for me”“syllabus already outdated”，语法完整、撇号齐全、词选得太干净，一眼像修过的
+- 改法：允许真人打字的毛边，比如省撇号（wouldve、its、im）、口语缩写（til、stuff、re explain）、语序随口、偶尔带一个 tbh 或 lol；不追求每个词都选得最准，读起来像没回头检查过就发了
+- 底线不变：词性和主谓不能错，不复述原推，三条长短照旧拉开
+
+### 用户反馈：长度随机，别套固定词（2026-11-13 用户追加，覆盖前面各节对短回复、中回复字数的硬性规定）
+- 用户原话：不是每句都要这些你要像个真人随手打的一样。每句话不要固定是那几个词。你一个词，2个词，3个词，4个词，5个词，6个词，都行。随机着来
+- 三条回复的长度在 1~6 个词之间随机，每次都不一样，不再固定“短 / 中 / 三个词”的梯度
+- 不是每条都要省撇号、带 tbh、lol、til 这类“毛边”；毛边偶尔出现，不当成固定配方
+- 不反复用同一批词和句式；像真人刷到就随手回一下
+- 反例：回 Joshua Gabriel 时三条都塞了 tbh、wouldve、til、lol 这类词，看着像刻意装随意
