@@ -1527,3 +1527,8 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 第三条【轻松调侃】最多 3 个词：碎、随手、口语，像刷到顺手敲的一下；不写完整句子，不组装主谓宾
 - 照旧：全小写、结尾不加句号、不用 ... 和 —、不复述原推、表情跟着对方
 - 反例：回 Dhaval 的谷歌连发模型帖时写了 “someone at google really found the periodic table this year”（10 个词，完整句子），违规；应改成 “periodic table speedrun” 这种三个词以内的随手接梗
+
+### 用户反馈：等发布类帖子的回复太水（2026-11-13 用户指出“质量太差”）
+- 回 Jaysen 问 Tibo 今天会不会发 GPT 6.2 Astra 或 Sol 时写了 “tab stays open just in case”“tibo replying with even one emoji would be enough at this point”“tibo pls”
+- 问题：just in case 在同一会话里已经用过（重复）；三条都只是“我也在等”，零信息增量，没有圈内人懂行的东西
+- 改法：等发布类帖子，用圈内人蹲点的真实习惯接（翻员工的点赞记录找线索、等官方号挂直播时间），不编具体时间和内部消息；同一会话里用过的词组、句式不再出现
