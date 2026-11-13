@@ -1584,3 +1584,8 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 产品是干什么的先想清楚（Outlook 是邮箱，Teams 是会议聊天，Copilot 才是微软的 AI 助手），不拿功能对不上的产品硬凑因果
 - 反例：微软 365 和 Claude 同一天宕机，写成“打不开 Outlook 的人把一整天的活搬进了 Claude”，邮箱和 AI 助手的活对不上，逻辑不通，差点让用户出丑
 - 反例补记（2026-11-13 用户指出）：同一条宕机帖改写时又写了 “Microsoft 365 down this morning. Claude down this afternoon.”，早上、下午完全是编的。截图只能看出两条帖子的发布先后（北京时间 15:36、18:10，即美东凌晨 2:36、5:10），看不出宕机的具体时间。以后时间细节只写截图或出处里明确有的，没有就只写先后顺序或不写
+
+### 用户反馈：别发空洞的“脑残评论”（2026-11-13 用户指出）
+- 回 smlay 的 Fable 5.2 视频帖时写了 “zero assets?? insane”“if this is the minor one”“fable 5.5 when”，用户说质量太差、“以后不要发这些脑残的评论”
+- 问题：只有空泛惊叹（insane）、半截没说完的话、万能的“X when”，零信息，换到哪条帖子下都能用
+- 改法：每条至少有一个具体抓手：圈内知识（程序化生成、发布节奏、对手动作）、一个明确的判断或站队，或者一个只适用于这条帖子的玩笑；“X when”“insane”“so close”这类万能短句不再用
