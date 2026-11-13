@@ -1544,3 +1544,10 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 不是每条都要省撇号、带 tbh、lol、til 这类“毛边”；毛边偶尔出现，不当成固定配方
 - 不反复用同一批词和句式；像真人刷到就随手回一下
 - 反例：回 Joshua Gabriel 时三条都塞了 tbh、wouldve、til、lol 这类词，看着像刻意装随意
+
+### 用户要求：学这种随意的推特口语（2026-11-13 用户追加）
+- 用户给的参考评论：here u go.. has he unblocked u?😭😭
+- 用户原话：我也要这种随意
+- 可以用：u、ur、rn、pls 这类缩写；句尾偶尔打两个点 ..（取代前面“禁止省略号”里对两个点的限制，三个点 ... 仍然不用）；问句可以直接问；表情可以连着打两个 😭😭（对方用了表情时）
+- 这些是可选的毛边，不是每条都塞；三条长度照旧 1~6 词随机，语法照旧不能错
+- 例：has it actually shipped tho..、ok u convinced me、pls tell me ur kidding 😭😭（只当思路，不照搬）
