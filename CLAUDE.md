@@ -1557,3 +1557,9 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 用户原话：你不用解读它下面的那个翻译
 - 最下面那句总结只写对方推文的意思，不再写“截图里的中文机翻把……译成了……，不对”这类说明
 - 理解原推照旧只看英文原文（第十八节），只是不把机翻的问题写出来
+
+### 第八节补充：只给免费能看的来源链接（2026-11-13 用户要求）
+- 用户原话：我要免费，能看的，付费的以后别再给我了
+- 给用户的来源链接只列免费、打开就能看全文的：官方博客和文档、X 原帖、Techmeme、Reuters 转载到 Yahoo Finance 的版本、Axios、The Verge、TechCrunch 等
+- 不给付费墙网站的链接：Bloomberg、WSJ、FT、The Information、NYT、Punchbowl 等；这些网站的报道可以用来核实事实，但链接换成转述它的免费页面（如 Techmeme 摘要）
+- 反例：核实 OpenAI 支持芯片出口法案时，第一个来源给了 Bloomberg 原文链接，用户打不开
