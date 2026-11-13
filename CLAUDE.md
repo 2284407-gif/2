@@ -1551,3 +1551,4 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 可以用：u、ur、rn、pls 这类缩写；句尾偶尔打两个点 ..（取代前面“禁止省略号”里对两个点的限制，三个点 ... 仍然不用）；问句可以直接问；表情可以连着打两个 😭😭（对方用了表情时）
 - 这些是可选的毛边，不是每条都塞；三条长度照旧 1~6 词随机，语法照旧不能错
 - 例：has it actually shipped tho..、ok u convinced me、pls tell me ur kidding 😭😭（只当思路，不照搬）
+- 用户确认（2026-11-13）：要的是“母语者的那种随意”。所以以美国母语者手机随手打字为准：u、ur、rn、tho、pls 可以用，问句不用问号也行；两个点 .. 更像非母语习惯，偶尔用一次就好，不当成固定尾巴
