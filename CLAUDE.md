@@ -1563,3 +1563,9 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 给用户的来源链接只列免费、打开就能看全文的：官方博客和文档、X 原帖、Techmeme、Reuters 转载到 Yahoo Finance 的版本、Axios、The Verge、TechCrunch 等
 - 不给付费墙网站的链接：Bloomberg、WSJ、FT、The Information、NYT、Punchbowl 等；这些网站的报道可以用来核实事实，但链接换成转述它的免费页面（如 Techmeme 摘要）
 - 反例：核实 OpenAI 支持芯片出口法案时，第一个来源给了 Bloomberg 原文链接，用户打不开
+
+### 用户反馈：主帖段首和句首要大写（2026-11-13 用户指出）
+- 用户原话：你这不对呀，段落开头没大写
+- 主帖、引用转发、改写：每段开头、句号后面的第一个词都正常大写（第七节“正常大小写”照旧有效）；“随意一点”指语气和句子短，不是改成全小写
+- 全小写只用于评论回复
+- 反例：芯片出口那条主帖为了显得随意，写成了 the exact chip...、a new report...、same week... 全小写段首
