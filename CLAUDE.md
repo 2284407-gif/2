@@ -1521,3 +1521,9 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 原推聊哪个技术指标，就围着它接（速度就聊延迟、等待体验；价格就聊成本；跑分就聊分数），不把两个不相干的指标硬扯在一起
 - 不用点评家收尾词：matters most、the real tell、of the whole story、is what counts、is the key
 - 反例：回 Eco 的 Hydrogen 速度帖时写了 “fast thinking tokens still add up on the bill”（让步转折加乱搭计费）和 “that speed matters most in agent loops”（点评家收尾词），违规
+
+### 输出格式调整：【轻松调侃】不超过三个词（2026-11-13 用户追加）
+- 用户原话：第三条改改 以后改成不超过三个词的回复 碎点 随手点 像随手打出来的 口语点
+- 第三条【轻松调侃】最多 3 个词：碎、随手、口语，像刷到顺手敲的一下；不写完整句子，不组装主谓宾
+- 照旧：全小写、结尾不加句号、不用 ... 和 —、不复述原推、表情跟着对方
+- 反例：回 Dhaval 的谷歌连发模型帖时写了 “someone at google really found the periodic table this year”（10 个词，完整句子），违规；应改成 “periodic table speedrun” 这种三个词以内的随手接梗
