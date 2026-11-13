@@ -1532,3 +1532,8 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 回 Jaysen 问 Tibo 今天会不会发 GPT 6.2 Astra 或 Sol 时写了 “tab stays open just in case”“tibo replying with even one emoji would be enough at this point”“tibo pls”
 - 问题：just in case 在同一会话里已经用过（重复）；三条都只是“我也在等”，零信息增量，没有圈内人懂行的东西
 - 改法：等发布类帖子，用圈内人蹲点的真实习惯接（翻员工的点赞记录找线索、等官方号挂直播时间），不编具体时间和内部消息；同一会话里用过的词组、句式不再出现
+
+### 用户反馈：一眼看上去还是太工整（2026-11-13 用户指出）
+- 回 Joshua Gabriel 的教育和 AI 帖时写了 “exams need the rework first”“having something explain it five different ways till it clicks would've changed school for me”“syllabus already outdated”，语法完整、撇号齐全、词选得太干净，一眼像修过的
+- 改法：允许真人打字的毛边，比如省撇号（wouldve、its、im）、口语缩写（til、stuff、re explain）、语序随口、偶尔带一个 tbh 或 lol；不追求每个词都选得最准，读起来像没回头检查过就发了
+- 底线不变：词性和主谓不能错，不复述原推，三条长短照旧拉开
