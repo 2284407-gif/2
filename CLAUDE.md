@@ -153,6 +153,8 @@
 - 自称“投资组合就是三个 AI 订阅”
 - 2026-11-12 发过帖：Gemini Decision 1 据说只输出 1 个 token（当时写 apparently）；同日 Logan Kilpatrick 官宣，之后可以按“已官宣”来写
 - 2026-11-12 连发施压 OpenAI 的帖（GPT-6.2 better be INSANE、Arena 前五 Anthropic 占四），立场偏向调侃 OpenAI
+- 2026-11-11 回复里用过的经历：Codex 标签页一整周都开着；有工具在同一个项目里同时调用 Claude 和 Codex；按难度分模型（简单活给 Flash 这类便宜模型，难的给 Opus，Opus 搞不定才上 Fable）；去年调一条慢查询花了一整周；写零碎小脚本（little scripts）；没装 DeepSeek Harness；存了 Blendi 的开源仓库打算周末看
+- 2026-11-11 立场：替 Tibo 说话（Codex 铁杆，不会跳槽），调侃 OpenAI 但不信跳槽、士气低这类传言；Gemini 代码截图类爆料一律先当传言、等出处
 
 ### 主帖（用户多次反馈“太平淡”后确认有效的写法）
 - 第一行必须有冲突或敢说的观点（如 Game studios are not ready for this / AI is now helping AI escape Nvidia），刷到就停
@@ -1584,3 +1586,20 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 产品是干什么的先想清楚（Outlook 是邮箱，Teams 是会议聊天，Copilot 才是微软的 AI 助手），不拿功能对不上的产品硬凑因果
 - 反例：微软 365 和 Claude 同一天宕机，写成“打不开 Outlook 的人把一整天的活搬进了 Claude”，邮箱和 AI 助手的活对不上，逻辑不通，差点让用户出丑
 - 反例补记（2026-11-13 用户指出）：同一条宕机帖改写时又写了 “Microsoft 365 down this morning. Claude down this afternoon.”，早上、下午完全是编的。截图只能看出两条帖子的发布先后（北京时间 15:36、18:10，即美东凌晨 2:36、5:10），看不出宕机的具体时间。以后时间细节只写截图或出处里明确有的，没有就只写先后顺序或不写
+
+## 二十九、老粉名单 + 视频处理（2026-11-14 从 11-11 会话同步）
+
+### 常来的老粉（回复时可接上之前的对话，增加熟人感，同一个人回过的梗不重复）
+- smlay：几乎每条都来，回过“欠你一杯咖啡”“比我通知还快”
+- Coding Dynasty：总在要独立测试、出处，夸过 Anika 等实锤再发
+- PokeBench、Doe、Rahul、Antrospike、Shahzamann、Yohaku、sou、Axel、Priya
+- Trí：用越南语评论，照样英文回
+- 蛋（@TheEggItself）：用中文评论，猜中过“周四有东西”
+- Neelesh：猜中过 Hydrogen 是 Flash 档
+- Rishi：有两个不同账号（@PosaniRishi、@RishiUvaach），别混
+
+### 视频处理
+- 用户发视频时先抽帧（ffmpeg 每 3~4 秒一帧，拼成网格）看完整剧情再写，别只看封面猜，也别把一直存在的东西写成“后来出现”
+- 录屏时长不一定等于真实时长（页面可能开了倍速），不确定就写 in seconds
+- 主帖可用 Stay till the end、Watch the counter 这类引导看完的话，拉完播率
+- 用户确认过的成稿：Stay till the end. All that snow, all that cold, and then he opens a cabin door and the whole screen turns warm
