@@ -1595,3 +1595,8 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 反例：回 AI Desk 的算力和便宜模型长帖时写了 “failed agent runs cost more than tokens”（像格言、像金句）、“easy stuff already gets routed”（被动句，太干净）、“compute math hurts”（工整的小结论）
 - 问题：三条都像修过的结论句，没有人刷到时随口的反应
 - 改法：长帖、观点帖也先写第一反应（ok fair、depends、idk 这类随口起头），再丢一个具体的想法；不写能单独拎出来当格言的句子；写完自问“这句能不能印在 T 恤上”，能就是金句，重写
+
+### 反例补记：短回复也复述了原推（2026-11-14 用户指出）
+- 用户原话：你是不是又开始复述了？怎么这么简单的回复都这样？
+- 反例：回 Nic 的 Dots vs Grok Bot 帖时写了 “never hitting a limit, jealous”（原推已说几乎没撞过额度上限）和 “grok for gossip”（原推已说 Grok Bot 擅长知道 X 上发生了什么），都是把原推的点换个说法再讲
+- 改法：越短越容易复述，写完每条都回原推逐句对一遍；原推已经说过的事实、评价、优缺点，一律不当回复内容，换成原推没提到的东西（价格、隐私、自己的选择、一个新细节）
