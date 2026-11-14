@@ -1668,3 +1668,9 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 录屏时长不一定等于真实时长（页面可能开了倍速），不确定就写 in seconds
 - 主帖可用 Stay till the end、Watch the counter 这类引导看完的话，拉完播率
 - 用户确认过的成稿：Stay till the end. All that snow, all that cold, and then he opens a cabin door and the whole screen turns warm
+
+### 用户反馈：正文里一律不写“据报道”（2026-11-14 用户要求）
+- 用户原话：不要写，据报道。什么玩意呢？以后都不要出现这三个字
+- 主帖、引用、评论的英文里不再出现 reportedly，也不用 apparently、word is 这类“据说”替身；中文翻译里也不出现“据报道”
+- 有正规媒体报道的事，直接当事实写；拿不准的事，用 plans to、is set to、if 这类本身就留余地的说法，或者直接不写
+- 不评论中美政治、不猜真人动机这些底线不变
