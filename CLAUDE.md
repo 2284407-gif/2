@@ -1589,3 +1589,9 @@ Twitter thrives on quick, punchy hits. Even for "Medium" replies, absolutely NO 
 - 用户原话：你回复的质量不行，没认真审题
 - 反例：回 Felis 时三条只接了最后一个问题（6.2 能不能打过 Fable 5.2），他前面问的“6.2 会不会没那么快来”“OpenAI 是在憋大招还是大家在炒还没准备好的模型”都没接；openai time zone 跟原帖关系说不清
 - 改法：写之前把原帖每个问题、每层意思列出来，三条分别正面回答最主要的几个问题；每条写完自问“这条回答的是他哪句话”，说不清就重写
+
+### 用户反馈：AI 味又出来了（2026-11-14 用户指出）
+- 用户原话：你的 AI 味道怎么又出来了？
+- 反例：回 AI Desk 的算力和便宜模型长帖时写了 “failed agent runs cost more than tokens”（像格言、像金句）、“easy stuff already gets routed”（被动句，太干净）、“compute math hurts”（工整的小结论）
+- 问题：三条都像修过的结论句，没有人刷到时随口的反应
+- 改法：长帖、观点帖也先写第一反应（ok fair、depends、idk 这类随口起头），再丢一个具体的想法；不写能单独拎出来当格言的句子；写完自问“这句能不能印在 T 恤上”，能就是金句，重写
